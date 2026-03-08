@@ -1,0 +1,501 @@
+user_id,name,city,state,risk_score
+1,Ishaan Tata,Visakhapatnam,Sikkim,0.43
+2,Yasti Date,Bokaro,West Bengal,0.37
+3,Kai Bhandari,Proddatur,Arunachal Pradesh,0.38
+4,Dakshesh Bahri,Barasat,Jharkhand,0.06
+5,Balendra Kala,Anantapuram,Odisha,0.86
+6,Gabriel Bumb,Singrauli,Goa,0.11
+7,Wahab Sethi,Rajahmundry,Telangana,0.68
+8,Reyansh Nazareth,Panipat,Tamil Nadu,0.44
+9,Idika Bansal,Singrauli,Odisha,0.89
+10,Wazir Bajaj,Bhind,Rajasthan,0.68
+11,Rishi Kota,Thrissur,Sikkim,0.81
+12,Daksha Tata,Kanpur,Jharkhand,0.66
+13,Omkaar Chatterjee,Amaravati,Goa,0.09
+14,Panini Ratta,Khammam,Bihar,0.18
+15,Jairaj Som,Siwan,Punjab,0.48
+16,Ladli Thakur,Vijayanagaram,Karnataka,0.36
+17,Nisha Hayre,Nagpur,Haryana,0.47
+18,Gaurang Bassi,Junagadh,Assam,0.51
+19,Rayaan Patil,Naihati,Chhattisgarh,0.22
+20,Jalsa Devan,Bathinda,Uttarakhand,0.64
+21,Vihaan Sibal,Firozabad,Uttarakhand,0.91
+22,Zaitra Patla,Aurangabad,Chhattisgarh,0.97
+23,Aachal Roy,Ratlam,Bihar,0.19
+24,Hemani Pal,Amroha,Tamil Nadu,0.34
+25,Yashvi Dass,Hajipur,Rajasthan,0.7
+26,Chakradhar Oza,Guna,Andhra Pradesh,0.95
+27,Osha Dey,Ranchi,Karnataka,0.53
+28,Anya Koshy,Tiruchirappalli,Punjab,0.1
+29,Nimrat Rai,Kota,Assam,0.63
+30,Jyoti Soni,Jaunpur,Bihar,0.72
+31,Upasna Sampath,Visakhapatnam,Tripura,0.69
+32,Sneha Oommen,Akola,Maharashtra,0.21
+33,Shaurya Chawla,Gulbarga,Karnataka,0.97
+34,Anita Halder,Meerut,Arunachal Pradesh,0.63
+35,Sneha Dugar,Rewa,Gujarat,0.58
+36,Sai Raj,Aurangabad,Haryana,1.0
+37,Adya Issac,Bhiwandi,Arunachal Pradesh,0.19
+38,Rajata Saran,Katni,Uttarakhand,0.74
+39,Sudiksha Gara,Gwalior,Tripura,0.14
+40,Veda Prabhu,Belgaum,Bihar,0.51
+41,Mitali Ramaswamy,Thiruvananthapuram,Goa,0.26
+42,Bhavya Bahl,Jalgaon,Himachal Pradesh,0.16
+43,Ethan Dixit,Kolkata,Meghalaya,0.97
+44,Nakul Pingle,Malda,Rajasthan,0.73
+45,Vrishti Agrawal,Surendranagar Dudhrej,Chhattisgarh,0.08
+46,Aadi Nagy,Miryalaguda,Meghalaya,0.78
+47,Neel Gulati,Ambala,Mizoram,0.51
+48,Lila Bhavsar,Shimla,Uttar Pradesh,0.11
+49,Prisha Bassi,Amaravati,Meghalaya,0.31
+50,Devika Gopal,Hapur,Tripura,0.65
+51,Liam Solanki,Phagwara,Telangana,0.11
+52,Veda Kala,Gorakhpur,Punjab,0.73
+53,Tanish Date,Hazaribagh,Punjab,0.86
+54,Nisha Dhar,Bathinda,Mizoram,0.09
+55,Samar Nanda,Gurgaon,Uttar Pradesh,0.48
+56,Eesha Suresh,Panchkula,Mizoram,0.17
+57,Girindra Roy,Berhampore,Mizoram,0.91
+58,Rachit Pillay,Jaipur,Madhya Pradesh,0.01
+59,Megha Nayak,Sonipat,Rajasthan,0.4
+60,Janaki Hans,Kollam,Arunachal Pradesh,0.24
+61,Nicholas Kibe,Sri Ganganagar,West Bengal,0.66
+62,Devika Bandi,Sangli-Miraj & Kupwad,Uttar Pradesh,0.0
+63,Rajeshri Ganesan,Satna,Goa,0.13
+64,Jyoti Sibal,Siwan,Madhya Pradesh,0.14
+65,Yashasvi Chander,Gwalior,Haryana,0.71
+66,Krishna Kar,Dewas,Maharashtra,0.54
+67,Pranit Rege,Silchar,West Bengal,0.2
+68,Jalsa Mishra,Vellore,Sikkim,0.86
+69,Inaya Rout,Anantapur,Bihar,0.19
+70,Faris Dugal,Dharmavaram,Sikkim,0.53
+71,Harish Sangha,Nangloi Jat,Jharkhand,0.98
+72,Vaishnavi More,Nagpur,Chhattisgarh,0.66
+73,Yochana Guha,Phusro,Tamil Nadu,0.97
+74,Ridhi Ratta,Gandhidham,Sikkim,0.8
+75,Lavanya Nadig,Ahmednagar,Andhra Pradesh,0.51
+76,Zinal Raval,Silchar,Manipur,0.94
+77,Balhaar Dash,Kanpur,Uttar Pradesh,0.03
+78,Tanish Dasgupta,Gandhidham,Uttar Pradesh,0.24
+79,Yachana Sarin,Medininagar,Uttar Pradesh,0.9
+80,Aradhana Ganguly,Bulandshahr,Andhra Pradesh,0.14
+81,Adya Gala,Kakinada,Manipur,0.6
+82,Jagat Kulkarni,Raiganj,Kerala,0.69
+83,Urvashi Baral,Miryalaguda,Uttar Pradesh,0.04
+84,Vrishti Banerjee,Panipat,Assam,0.43
+85,Parth Singh,Bhalswa Jahangir Pur,Tamil Nadu,0.65
+86,Diya Mangal,Chittoor,Himachal Pradesh,0.03
+87,Ethan Patla,Berhampore,Mizoram,0.71
+88,Guneet Kumar,Bareilly,Gujarat,0.28
+89,Raghav Deshmukh,Jaipur,Bihar,0.23
+90,Hemang Bali,Nanded,Mizoram,0.95
+91,Lucky Bhagat,Jorhat,Assam,0.33
+92,Ubika Hari,Eluru,Andhra Pradesh,0.64
+93,Naveen Suresh,Ghaziabad,Maharashtra,0.18
+94,Indrajit Chauhan,Rampur,Arunachal Pradesh,0.75
+95,Praneel Hayre,Ongole,Himachal Pradesh,0.2
+96,Timothy Chacko,Bhilai,Meghalaya,0.35
+97,Ekbal Sengupta,Berhampur,Uttar Pradesh,1.0
+98,Rohan Mall,Sambalpur,West Bengal,0.55
+99,Neha Chokshi,Raipur,Karnataka,0.6
+100,Saanvi Krishnan,Imphal,Uttarakhand,0.51
+101,Chakradev Palla,Bharatpur,Tripura,0.93
+102,Indali Bhatnagar,Vijayanagaram,West Bengal,0.05
+103,Suhani Rege,Berhampur,Mizoram,0.64
+104,Onkar Badal,Tadipatri,Gujarat,0.35
+105,Wazir Dhillon,Chittoor,Kerala,0.01
+106,Rachita Konda,Burhanpur,Tamil Nadu,0.89
+107,Christopher Dhillon,Pimpri-Chinchwad,Nagaland,0.28
+108,Anthony Kara,Imphal,Punjab,0.56
+109,Kai Banerjee,Mira-Bhayandar,Maharashtra,0.56
+110,Warjas Mody,Bhavnagar,Goa,0.08
+111,Max Sachdeva,Satna,Mizoram,0.27
+112,Zashil Khosla,Patna,West Bengal,0.34
+113,Chakrika Khosla,Machilipatnam,Meghalaya,0.49
+114,Indira Sheth,New Delhi,Arunachal Pradesh,0.77
+115,Bahadurjit Andra,Guna,Jharkhand,0.34
+116,Damini Gour,Ulhasnagar,Kerala,0.11
+117,Chakrika Patla,Dharmavaram,Telangana,0.73
+118,Dalbir Sandhu,Tinsukia,Mizoram,0.07
+119,Warinder Ramanathan,Ludhiana,Chhattisgarh,0.37
+120,Yashica Kibe,Deoghar,Nagaland,0.19
+121,Azad Pant,Gulbarga,Odisha,0.76
+122,Zashil Narain,Ahmednagar,Chhattisgarh,0.8
+123,Dalbir Chana,Karawal Nagar,Kerala,0.06
+124,Lavanya Vig,Mango,Arunachal Pradesh,0.5
+125,Damini Nath,Hapur,Telangana,0.98
+126,Pushti Narain,Bidhannagar,Haryana,0.23
+127,Chakradhar Rajagopal,Amritsar,Tamil Nadu,0.34
+128,Mohini Bhatnagar,Bihar Sharif,Mizoram,0.17
+129,Noah Savant,Vijayawada,Punjab,0.61
+130,Shaurya Yadav,Buxar,Meghalaya,0.51
+131,Kamya Kari,Danapur,Odisha,0.33
+132,Rajeshri Sur,Nashik,Goa,0.93
+133,Balendra Nair,Dindigul,Rajasthan,0.19
+134,Yashawini Dey,Bihar Sharif,Jharkhand,0.81
+135,Yuvraj Handa,Bally,Himachal Pradesh,0.84
+136,Widisha Tella,Bhusawal,Arunachal Pradesh,0.09
+137,Chaitaly Tak,Singrauli,Manipur,0.66
+138,Laksh Basak,Medininagar,West Bengal,0.77
+139,Adweta Wagle,Tadipatri,Jharkhand,0.68
+140,Ekansh Mistry,Durg,Jharkhand,0.91
+141,Chaitanya Tak,Mumbai,Jharkhand,0.28
+142,Yashoda Magar,Maheshtala,West Bengal,0.19
+143,Waida Chacko,Dewas,Madhya Pradesh,0.96
+144,Falguni Kothari,Muzaffarnagar,Maharashtra,0.54
+145,Zinal Sridhar,Bulandshahr,Jharkhand,1.0
+146,Ijaya Mander,Saharanpur,Sikkim,0.24
+147,Pallavi Sood,Kozhikode,Karnataka,0.42
+148,Ikshita Palan,Hapur,Jharkhand,0.66
+149,Ekani Sunder,Tiruppur,Madhya Pradesh,0.47
+150,Rudra Panchal,Ramgarh,Uttarakhand,0.58
+151,Anya Gaba,Rajahmundry,Himachal Pradesh,0.57
+152,Akshay Magar,Mira-Bhayandar,Tripura,0.01
+153,Fariq Vora,Parbhani,West Bengal,0.15
+154,Logan Zachariah,Raiganj,Bihar,0.55
+155,Karan Pingle,Bhind,Arunachal Pradesh,0.32
+156,Chanakya Dubey,Warangal,Gujarat,0.57
+157,Lohit Mani,Gwalior,Punjab,0.12
+158,Bishakha Sharma,Saharsa,Assam,0.7
+159,Saanvi Mandal,Sri Ganganagar,Mizoram,0.58
+160,Sarthak Barad,Mira-Bhayandar,Madhya Pradesh,0.2
+161,Rachit Barad,Ramgarh,Himachal Pradesh,0.68
+162,Ekansh Wagle,Farrukhabad,Nagaland,0.66
+163,Falak Bath,Sonipat,Uttarakhand,0.42
+164,Chaaya Bhandari,Muzaffarnagar,Kerala,0.74
+165,Damyanti Divan,Nangloi Jat,Sikkim,0.07
+166,Siya Rattan,Bhind,Telangana,0.95
+167,Raghav Arya,Ahmedabad,Andhra Pradesh,0.62
+168,Logan Chawla,Mehsana,Uttarakhand,0.52
+169,Ronith Karnik,Nashik,Himachal Pradesh,0.92
+170,Adweta Mane,Berhampur,Tamil Nadu,0.05
+171,Advaith Aggarwal,Ahmedabad,Maharashtra,0.25
+172,Charvi Varma,Kharagpur,Rajasthan,0.68
+173,Dipta Apte,Vasai-Virar,Telangana,0.52
+174,Pavani Sridhar,Gwalior,Odisha,0.18
+175,Qarin Sem,Serampore,Nagaland,0.23
+176,Gopal Krishnamurthy,Ghaziabad,Himachal Pradesh,0.15
+177,Robert Seshadri,Bally,Rajasthan,0.04
+178,Widisha Manne,Nagaon,Arunachal Pradesh,0.77
+179,Vamakshi Sathe,Sri Ganganagar,Odisha,0.25
+180,Faqid Muni,Munger,Haryana,0.59
+181,Janaki Chopra,Orai,Rajasthan,0.92
+182,Vanya Bal,Hazaribagh,Kerala,0.74
+183,Nicholas Bhatti,Malda,Assam,0.97
+184,Alka Sharaf,Patna,Andhra Pradesh,0.23
+185,Aishani Manda,Pali,Maharashtra,0.41
+186,Kashvi Devan,Burhanpur,Rajasthan,0.4
+187,Odika Sandhu,Aurangabad,Haryana,0.03
+188,Hamsini Aggarwal,Jaunpur,Haryana,0.16
+189,Krisha Sastry,Cuttack,Odisha,0.77
+190,Andrew Tripathi,Amravati,Haryana,0.61
+191,Advay Sathe,Dharmavaram,Tamil Nadu,0.73
+192,Prisha Sarraf,Khammam,Mizoram,0.82
+193,Ishani Balasubramanian,Vasai-Virar,Telangana,0.08
+194,Kamya Rastogi,Raichur,Madhya Pradesh,0.52
+195,Ekbal Ramaswamy,Bardhaman,Sikkim,0.37
+196,Vincent Sur,Bidar,Goa,0.6
+197,Rohan Mahajan,Hajipur,Haryana,0.74
+198,Aarnav Wason,Uluberia,Telangana,0.04
+199,Hemani Kant,Sagar,Kerala,0.67
+200,Ishita Kala,Surendranagar Dudhrej,Karnataka,0.51
+201,Dakshesh Dhaliwal,Yamunanagar,Madhya Pradesh,0.56
+202,Tristan Kala,Nadiad,Goa,0.3
+203,Dayamai Vasa,Dhule,Kerala,0.37
+204,Leena Bhardwaj,Bulandshahr,Bihar,0.3
+205,Rushil Dugal,Jammu,Sikkim,0.82
+206,Yamini Baral,Gangtok,Telangana,0.4
+207,Jagvi Sangha,Jalna,Madhya Pradesh,0.38
+208,Chasmum Bora,Rourkela,Andhra Pradesh,0.3
+209,Osha Dugar,Guntakal,Jharkhand,0.61
+210,Girindra Prabhu,Udupi,Chhattisgarh,0.3
+211,Janaki Rana,Vellore,Himachal Pradesh,0.08
+212,Abhiram Panchal,Jhansi,Telangana,0.18
+213,Hemal Memon,Rajahmundry,Rajasthan,0.8
+214,Kiaan Kumar,Tumkur,Bihar,0.14
+215,Tanay Rao,Vadodara,Uttarakhand,0.34
+216,Anusha Dara,Kozhikode,Chhattisgarh,0.11
+217,Frado Nadig,Nanded,Uttar Pradesh,0.77
+218,Bhavani Dua,Bally,Gujarat,0.65
+219,Udarsh Lad,Jaunpur,Sikkim,0.46
+220,Nidhi Mitter,Kakinada,Bihar,0.89
+221,Lila Bassi,Hajipur,Gujarat,0.59
+222,Sai Jayaraman,Arrah,Nagaland,0.73
+223,Varsha Menon,Khandwa,Himachal Pradesh,0.61
+224,Jason Bhakta,Dhanbad,Andhra Pradesh,0.89
+225,Girish Gour,Moradabad,West Bengal,0.85
+226,Eta Sur,Raipur,Kerala,0.76
+227,Harita Bakshi,Salem,Odisha,0.43
+228,Yashica Pau,Mumbai,Rajasthan,0.2
+229,Karan Sawhney,Nadiad,Arunachal Pradesh,0.76
+230,Ronith Patil,Faridabad,Gujarat,0.63
+231,Gaurang Goyal,Sagar,Maharashtra,0.24
+232,Onveer Munshi,Gopalpur,Meghalaya,0.1
+233,Leela Dani,Miryalaguda,Kerala,0.05
+234,Vedhika Edwin,Durgapur,Gujarat,0.19
+235,Isha Kar,Saharsa,Tamil Nadu,0.17
+236,Tamanna Sarin,Asansol,Telangana,0.92
+237,Jai Barad,Chapra,Chhattisgarh,0.55
+238,Brijesh Mahajan,Gandhidham,Chhattisgarh,0.07
+239,Upasna Babu,Alappuzha,Andhra Pradesh,0.29
+240,Kamya Bedi,Ujjain,Bihar,0.05
+241,Quincy Subramanian,Unnao,Rajasthan,0.88
+242,Daksh Kumar,Rampur,Chhattisgarh,0.9
+243,Rayaan Warrior,Gorakhpur,Telangana,0.17
+244,Qadim Hari,Noida,Jharkhand,0.2
+245,Faras Rajagopal,Yamunanagar,Maharashtra,0.59
+246,Lavanya Rai,Bijapur,Odisha,0.61
+247,Charvi Kunda,Anantapur,Assam,0.62
+248,Zashil Palan,Alwar,Madhya Pradesh,0.49
+249,Zehaan Mohanty,Panchkula,Meghalaya,0.49
+250,Hema Mistry,Sikar,Sikkim,0.64
+251,Vansha Lalla,South Dumdum,Madhya Pradesh,0.61
+252,Dalaja Nair,Jamalpur,Meghalaya,0.72
+253,Gavin Sibal,Tinsukia,West Bengal,0.66
+254,Mason Seshadri,Ramgarh,Meghalaya,0.94
+255,Zarna Bhattacharyya,Pondicherry,Maharashtra,0.61
+256,Vasudha Kant,Ozhukarai,Chhattisgarh,0.46
+257,Joshua Bhalla,Udaipur,Himachal Pradesh,0.9
+258,Kalpit Nazareth,Jabalpur,Telangana,0.86
+259,Abhiram Deshmukh,Burhanpur,Chhattisgarh,0.01
+260,Mitesh Bal,Bulandshahr,Haryana,0.41
+261,Ucchal Sami,Guwahati,Madhya Pradesh,0.2
+262,Vamakshi Kumar,Nizamabad,Arunachal Pradesh,0.28
+263,Vedika Toor,Jaipur,Sikkim,0.57
+264,Nakul Dhingra,Salem,Assam,0.28
+265,Orinder Konda,Unnao,West Bengal,0.8
+266,Samar Nazareth,Unnao,Meghalaya,0.61
+267,Meera Sridhar,Sangli-Miraj & Kupwad,Sikkim,0.24
+268,Gayathri Kaur,Ahmedabad,Madhya Pradesh,0.46
+269,Kai Gole,Raichur,Assam,0.16
+270,Brijesh Sharaf,Mumbai,West Bengal,0.95
+271,Radha Krishnan,Morena,Assam,0.36
+272,Kala Khurana,Shimla,Kerala,0.44
+273,Yash Muni,Suryapet,Andhra Pradesh,0.28
+274,Lajita Buch,Kurnool,Kerala,0.16
+275,Bhanumati Bansal,Thiruvananthapuram,Tamil Nadu,0.62
+276,Ikshita Shenoy,Kanpur,Arunachal Pradesh,0.92
+277,Hitesh Mangal,Aizawl,Chhattisgarh,0.55
+278,Veda Joshi,Vellore,Gujarat,0.05
+279,Aarna Dubey,Sikar,Uttar Pradesh,0.91
+280,William Majumdar,Bhubaneswar,Arunachal Pradesh,0.02
+281,Utkarsh Boase,Burhanpur,Arunachal Pradesh,0.89
+282,Harish Gaba,Mahbubnagar,Odisha,0.7
+283,Anya Sarna,Aurangabad,Manipur,0.65
+284,Urmi Balan,Kollam,Rajasthan,0.03
+285,Nikita Kanda,Vasai-Virar,Andhra Pradesh,0.72
+286,Janya Padmanabhan,Chandrapur,Odisha,0.04
+287,Krisha Goyal,Darbhanga,Nagaland,0.55
+288,Riya Kari,Amritsar,Karnataka,0.57
+289,Turvi Srinivasan,Ranchi,Tripura,0.64
+290,Rachana Gola,Tumkur,Nagaland,0.55
+291,Wahab Dora,Alappuzha,Andhra Pradesh,0.73
+292,Jackson Seth,Yamunanagar,Goa,0.39
+293,Luke Lala,Rampur,Punjab,0.42
+294,Samuel Bali,Vadodara,Uttar Pradesh,0.43
+295,Brijesh Mane,Tezpur,Meghalaya,0.98
+296,Urvashi Deshmukh,Bhalswa Jahangir Pur,Chhattisgarh,0.91
+297,David Nagarajan,Satara,Arunachal Pradesh,0.24
+298,Jai Lanka,Bettiah,Odisha,0.64
+299,Devika Naik,Hospet,Arunachal Pradesh,0.13
+300,Indali Sabharwal,Arrah,Uttarakhand,0.37
+301,Rajata Seth,Secunderabad,Gujarat,0.92
+302,Ekalinga Pillay,Delhi,Tamil Nadu,0.98
+303,Ekavir Chowdhury,Bhilwara,Rajasthan,0.56
+304,Upasna Tata,Bhiwani,Manipur,0.22
+305,Leena Chaudhary,Ratlam,Kerala,0.59
+306,Yutika Sani,Davanagere,Karnataka,0.53
+307,Lakshmi Goyal,Uluberia,Rajasthan,0.33
+308,Frado Zacharia,Tiruchirappalli,Jharkhand,0.38
+309,Forum Bains,Sambalpur,Telangana,0.33
+310,Isaac Peri,Moradabad,Sikkim,0.67
+311,Oni Reddy,Ichalkaranji,Mizoram,0.96
+312,Bhavna Dalal,Meerut,Tamil Nadu,0.6
+313,Omya Raj,Meerut,Meghalaya,0.37
+314,Xiti Radhakrishnan,Burhanpur,Chhattisgarh,0.41
+315,Lavanya Prashad,Korba,Meghalaya,0.66
+316,Karan Varty,Karimnagar,Rajasthan,0.48
+317,Balvan Hari,Mira-Bhayandar,Jharkhand,0.49
+318,Kai Peri,Sagar,Karnataka,0.87
+319,Logan Shukla,Fatehpur,Uttarakhand,0.19
+320,Hritik Mani,Raurkela Industrial Township,Manipur,0.55
+321,Ganga Minhas,Alappuzha,Tripura,0.3
+322,Jeet Varughese,Saharsa,Sikkim,0.42
+323,Nirja Saran,Vijayawada,Assam,0.05
+324,Janya Bawa,Buxar,Jharkhand,0.61
+325,Upadhriti Bora,Pallavaram,Meghalaya,0.17
+326,Oscar Batta,Nadiad,Jharkhand,0.58
+327,Jonathan Garde,Shahjahanpur,Uttar Pradesh,0.69
+328,Umang Gour,Aligarh,Kerala,0.44
+329,Falguni Rai,Khammam,Nagaland,0.34
+330,Bhavini Gole,Mysore,Assam,0.62
+331,Abdul Bera,Siwan,Odisha,0.83
+332,Ekaraj Som,Kota,West Bengal,0.24
+333,Ojas Nagarajan,Uluberia,Maharashtra,0.36
+334,Lipika Behl,Machilipatnam,Madhya Pradesh,0.04
+335,Maanas Nori,Dewas,Odisha,0.59
+336,Harita Nagarajan,Nandyal,Nagaland,0.84
+337,Aishani Garg,North Dumdum,Odisha,0.51
+338,Hitesh Tandon,Bhubaneswar,Odisha,0.52
+339,Banjeet Tata,Unnao,Manipur,0.71
+340,Anita Mukherjee,Panchkula,Nagaland,0.94
+341,Rachana Mohan,Nagercoil,Telangana,0.82
+342,Lakshmi Murthy,Muzaffarnagar,Chhattisgarh,0.6
+343,Pushti Majumdar,Muzaffarnagar,Telangana,0.61
+344,Aryan Dhingra,Serampore,Tamil Nadu,0.25
+345,Pooja Hora,Kota,Haryana,0.43
+346,Radha Gill,Kakinada,Sikkim,0.33
+347,Dhruv Chaudry,Loni,Tripura,0.5
+348,Teerth Acharya,Rajpur Sonarpur,Uttarakhand,0.56
+349,Rehaan Kalita,Bhavnagar,Manipur,0.79
+350,Ethan Bora,Gopalpur,Arunachal Pradesh,0.28
+351,Chaitanya Dhar,Lucknow,Gujarat,0.4
+352,Girik Suri,Kulti,Madhya Pradesh,0.43
+353,Gaurav Pai,Bathinda,Nagaland,0.33
+354,Nidhi Hayre,Hindupur,Andhra Pradesh,0.53
+355,Yashawini Sarkar,Morena,Sikkim,0.47
+356,Eta Sridhar,Rohtak,Goa,0.99
+357,Arya Karnik,Dibrugarh,Arunachal Pradesh,0.32
+358,Rehaan Bhattacharyya,Gangtok,Haryana,0.03
+359,Hredhaan Reddy,Katihar,Manipur,0.88
+360,Harrison Anand,Karnal,Assam,0.47
+361,Harinakshi Mangal,Bathinda,Goa,0.31
+362,Chandran Choudhry,Ichalkaranji,Punjab,0.54
+363,Dalbir Dewan,Anand,Punjab,0.14
+364,Guneet Sankaran,Raurkela Industrial Township,Telangana,0.5
+365,Tara Mukherjee,Nadiad,Rajasthan,0.48
+366,Vidhi Walla,Avadi,Mizoram,0.39
+367,Ekbal Ratta,Guna,Assam,0.1
+368,Vasatika Kumer,Hazaribagh,Goa,0.44
+369,Yashodhara Devi,Munger,Andhra Pradesh,0.57
+370,Yatin Soman,Dehri,Meghalaya,0.64
+371,Abeer Oak,Sasaram,Odisha,0.68
+372,Balendra Bains,Raichur,Madhya Pradesh,0.59
+373,Bhavna Sharaf,Nagaon,Manipur,0.76
+374,Falak Nayak,Sirsa,Telangana,0.97
+375,Zayan Bhatt,Hindupur,Himachal Pradesh,0.3
+376,Omaja Rajan,Siwan,Odisha,0.07
+377,Anthony Ganesh,Indore,Karnataka,0.67
+378,Noah Lal,Sultan Pur Majra,Meghalaya,0.71
+379,Vaishnavi Kala,Gopalpur,Manipur,0.94
+380,Lajita Yadav,Rajkot,Tamil Nadu,0.37
+381,Lopa Patil,Nanded,Kerala,0.95
+382,Girindra Rama,Bikaner,Uttarakhand,0.79
+383,Amara Bansal,Chapra,Rajasthan,0.23
+384,Raagini Sundaram,Tiruchirappalli,Haryana,0.25
+385,Kevin Sant,Visakhapatnam,Madhya Pradesh,0.76
+386,Eesha Merchant,Medininagar,Himachal Pradesh,0.81
+387,Isaiah Lal,Jalna,Rajasthan,0.39
+388,Ishani Nadig,Patiala,Meghalaya,0.86
+389,Champak Rastogi,Barasat,Jharkhand,0.27
+390,Devika Sethi,Panchkula,Karnataka,0.79
+391,Qasim Mangal,Dehradun,Himachal Pradesh,0.3
+392,Vidhi Pillai,Fatehpur,Haryana,0.3
+393,Zilmil Jha,Adoni,West Bengal,0.85
+394,Divya Rajagopalan,Serampore,Nagaland,0.5
+395,Pavani Nair,Bhubaneswar,Nagaland,0.73
+396,Victor Ahuja,Bangalore,Rajasthan,0.39
+397,Girish Ganesan,Malda,Mizoram,0.01
+398,Zashil Bora,Bihar Sharif,Madhya Pradesh,0.2
+399,Abhiram Brahmbhatt,Hubli–Dharwad,Manipur,0.93
+400,Ayushman Kulkarni,Srikakulam,Himachal Pradesh,0.98
+401,Qasim Prabhu,Aurangabad,Rajasthan,0.52
+402,Nathan Sanghvi,Kolkata,Punjab,0.85
+403,Chanakya Wagle,Ajmer,Sikkim,0.17
+404,Brinda Suri,Kalyan-Dombivli,Bihar,0.94
+405,Teerth Andra,Surat,Mizoram,0.99
+406,Unni Anand,Pimpri-Chinchwad,Gujarat,0.55
+407,Siddharth Lalla,Kota,Madhya Pradesh,0.8
+408,Irya Oak,Visakhapatnam,Uttarakhand,0.5
+409,Harita Subramaniam,Sambhal,Uttar Pradesh,0.66
+410,Ishita Malhotra,Dharmavaram,Mizoram,0.73
+411,Vyanjana Venkatesh,Shivpuri,Arunachal Pradesh,0.53
+412,Balhaar Chahal,Tumkur,Uttarakhand,0.89
+413,Gautam Biswas,Motihari,Meghalaya,0.04
+414,Ikshita Vyas,Udaipur,Maharashtra,0.63
+415,Yashawini Ranganathan,Khammam,Telangana,0.01
+416,Naksh Dugar,Coimbatore,Tamil Nadu,0.54
+417,Eiravati Bhatia,Kalyan-Dombivli,Mizoram,0.57
+418,Charvi Sem,Gwalior,Haryana,0.93
+419,Charvi Jha,Alwar,Manipur,0.82
+420,Anita Yogi,Jamalpur,Punjab,0.66
+421,Faris Mital,Sonipat,Bihar,0.02
+422,Jonathan Luthra,Darbhanga,Madhya Pradesh,0.61
+423,Ishanvi Sawhney,Dhanbad,Uttar Pradesh,0.29
+424,Balvan Chahal,Kollam,Arunachal Pradesh,0.05
+425,Yachana Narayan,Gorakhpur,Mizoram,1.0
+426,Advika Varty,Kamarhati,Meghalaya,0.64
+427,Aarush Baria,Kollam,West Bengal,0.71
+428,Aarnav Shah,Ramgarh,Arunachal Pradesh,0.9
+429,Dominic Sandal,Kolhapur,Uttarakhand,0.93
+430,Max Chaudhari,Bikaner,Kerala,0.99
+431,Balveer Kulkarni,Bhilai,Sikkim,0.4
+432,Pranav Barad,Kamarhati,Maharashtra,0.16
+433,Anmol Walla,Nashik,Karnataka,0.25
+434,Brijesh Sarna,Tiruppur,Assam,0.71
+435,Ati Datta,Phagwara,Assam,0.84
+436,Warhi Bhargava,Kota,Chhattisgarh,0.08
+437,Patrick Mani,Kanpur,Jharkhand,0.82
+438,Manan Rai,Mathura,Telangana,0.16
+439,Edhitha Madan,Lucknow,Himachal Pradesh,0.32
+440,Dayita Johal,Purnia,Odisha,0.67
+441,Pushti Dhar,Allahabad,Meghalaya,0.13
+442,Azaan Bhargava,Alwar,Punjab,0.47
+443,Bahadurjit Wagle,Raebareli,Uttar Pradesh,0.82
+444,Dominic Karpe,Morbi,Punjab,0.27
+445,Gavin Narayanan,Solapur,Nagaland,0.91
+446,Niharika Srinivas,Bhilwara,Meghalaya,0.34
+447,Harshil Narain,Barasat,Karnataka,0.49
+448,Zayan Purohit,Mirzapur,Odisha,0.76
+449,Nitesh Narang,Khandwa,Tamil Nadu,0.82
+450,Imaran Narasimhan,Nellore,Jharkhand,0.16
+451,Ekta Bains,Warangal,Madhya Pradesh,0.34
+452,Neel Barman,Warangal,Uttarakhand,0.52
+453,Wahab Khanna,Hajipur,Goa,0.0
+454,Keya Din,Bhubaneswar,Maharashtra,0.39
+455,Nimrat Tandon,Kamarhati,Arunachal Pradesh,0.42
+456,Edhitha Khalsa,Asansol,Kerala,0.74
+457,Reva Sachdeva,Coimbatore,Gujarat,0.83
+458,Manthan Iyer,Thrissur,Uttarakhand,0.59
+459,Ronith Roy,Dindigul,Maharashtra,0.53
+460,Triya Bora,Aurangabad,Jharkhand,0.63
+461,Gautam Madan,Jalna,Manipur,0.07
+462,Wriddhish Pandit,Anantapuram,Chhattisgarh,0.5
+463,Brijesh Anne,Ujjain,Haryana,0.34
+464,Diya Parikh,Satara,Nagaland,0.06
+465,Hritik Mistry,Anantapur,Tripura,0.41
+466,Vihaan Sangha,Dehradun,Sikkim,0.32
+467,Kritika Kata,Begusarai,Rajasthan,0.18
+468,Hiral Dugar,Kalyan-Dombivli,Odisha,0.0
+469,Isha Ram,Salem,Goa,0.24
+470,Suhani Buch,Etawah,Arunachal Pradesh,0.61
+471,Lohit Kakar,Thanjavur,Himachal Pradesh,0.24
+472,Lucky Patel,Siwan,Haryana,0.33
+473,Hredhaan Contractor,Bijapur,Bihar,0.8
+474,Wahab Palan,Singrauli,Manipur,0.96
+475,Jonathan Rau,Tinsukia,Bihar,0.01
+476,Zayan Mammen,Gaya,Goa,0.75
+477,Daksh Dua,Aurangabad,Tripura,0.07
+478,Nidhi Basak,Sultan Pur Majra,Tamil Nadu,0.44
+479,Jonathan D’Alia,Amaravati,Andhra Pradesh,0.49
+480,Chanakya Kaur,Darbhanga,Meghalaya,0.91
+481,Ekani Sunder,Rewa,Telangana,0.87
+482,Ekansh Sampath,Gorakhpur,Haryana,0.77
+483,Raagini Ranganathan,Morena,Haryana,0.19
+484,Ekbal Sharma,Mahbubnagar,Andhra Pradesh,0.8
+485,Fariq Bhardwaj,Rajpur Sonarpur,Manipur,0.52
+486,Tanmayi Mitter,Navi Mumbai,Punjab,0.3
+487,Bhavika Viswanathan,Bally,Uttar Pradesh,0.23
+488,Gaurav Jha,Ahmedabad,Rajasthan,0.75
+489,Neha Grover,Durg,Uttar Pradesh,0.42
+490,Samarth Bhatia,Raiganj,Meghalaya,0.2
+491,Jeremiah Kaur,Kalyan-Dombivli,Himachal Pradesh,0.1
+492,Jairaj Nair,Hospet,Telangana,0.74
+493,Udarsh Bhavsar,Bettiah,Meghalaya,0.83
+494,Zaid Kata,Bhalswa Jahangir Pur,Mizoram,0.18
+495,Chaitanya Sodhi,Thiruvananthapuram,Goa,0.46
+496,Fiyaz Sahota,Ghaziabad,Nagaland,0.28
+497,Lajita Golla,Raipur,Jharkhand,0.81
+498,Udarsh Raval,Noida,Madhya Pradesh,0.51
+499,Chaitanya Iyer,Kirari Suleman Nagar,Bihar,0.13
+500,Jonathan Mahajan,Patna,Madhya Pradesh,0.11

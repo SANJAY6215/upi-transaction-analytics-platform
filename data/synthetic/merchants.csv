@@ -1,0 +1,101 @@
+merchant_id,merchant_name,category,city,risk_level
+1,Chaudhary-Dhaliwal,Food,Chandigarh,LOW
+2,"Kalita, Raghavan and Bains",Food,Pune,MEDIUM
+3,"Ganguly, Thakur and Vig",Electronics,Amravati,LOW
+4,"Menon, Mandal and Sunder",Travel,Aizawl,LOW
+5,"Mitra, Sani and Chahal",Electronics,Khora ,MEDIUM
+6,Grover-Pradhan,Clothing,Davanagere,MEDIUM
+7,"Samra, Dalal and Nath",Pharmacy,Haldia,HIGH
+8,Sabharwal-Dhar,Clothing,Patiala,LOW
+9,"Mohanty, Dass and Varty",Pharmacy,Tirunelveli,MEDIUM
+10,"Hegde, Prasad and Dutta",Entertainment,Amravati,LOW
+11,"Singhal, Lall and Doctor",Entertainment,Sultan Pur Majra,MEDIUM
+12,Pal-Choudhry,Clothing,Dharmavaram,MEDIUM
+13,"Desai, Dutta and Rege",Pharmacy,Kishanganj,MEDIUM
+14,Suri and Sons,Food,Bhilai,MEDIUM
+15,Agarwal Ltd,Food,Bettiah,LOW
+16,Cherian-Kumar,Fuel,Jodhpur,MEDIUM
+17,Jain-Magar,Groceries,Proddatur,MEDIUM
+18,Sura Ltd,Pharmacy,Etawah,LOW
+19,"Borah, Lala and Lalla",Fuel,Rajahmundry,LOW
+20,Arora Inc,Groceries,Tumkur,MEDIUM
+21,Raju and Sons,Electronics,Warangal,MEDIUM
+22,"Tailor, Buch and Ahluwalia",Pharmacy,Ichalkaranji,LOW
+23,Contractor-Sawhney,Entertainment,Siwan,HIGH
+24,"Samra, Kakar and Agate",Food,Ichalkaranji,MEDIUM
+25,Varty-Doshi,Groceries,Morena,MEDIUM
+26,Andra and Sons,Pharmacy,Bokaro,MEDIUM
+27,"Morar, Goyal and Barman",Travel,Bardhaman,LOW
+28,Manda-Kara,Travel,Silchar,HIGH
+29,"Biswas, Vora and Bala",Fuel,Bhopal,MEDIUM
+30,Pathak-Dass,Pharmacy,Katihar,HIGH
+31,"Agarwal, Bal and Murty",Entertainment,Narasaraopet,LOW
+32,Sankar-Uppal,Entertainment,Nagpur,HIGH
+33,"Koshy, Wadhwa and Divan",Travel,Parbhani,HIGH
+34,Upadhyay LLC,Travel,Anantapuram,MEDIUM
+35,Dar LLC,Pharmacy,Sonipat,LOW
+36,"Kant, Ravel and Raja",Food,Raurkela Industrial Township,MEDIUM
+37,"Chaudhuri, Gokhale and Murty",Electronics,Kavali,HIGH
+38,Patel PLC,Entertainment,Ramagundam,HIGH
+39,Bera-Goswami,Electronics,Hyderabad,MEDIUM
+40,"Goswami, Sarin and Sastry",Travel,Saharsa,MEDIUM
+41,Walia Ltd,Electronics,Dehradun,HIGH
+42,Arya-Palla,Fuel,Bhusawal,HIGH
+43,Sangha PLC,Food,Amaravati,MEDIUM
+44,Ganguly-Shankar,Groceries,Jamnagar,LOW
+45,"Divan, Dayal and Lal",Fuel,Ambattur,LOW
+46,"Dora, Puri and Doctor",Electronics,Vadodara,HIGH
+47,Saxena-Varkey,Travel,Berhampur,LOW
+48,"Bhatti, Madan and Balan",Clothing,Mysore,HIGH
+49,Gade PLC,Fuel,Karnal,LOW
+50,"Jha, Chatterjee and Mangat",Clothing,Bareilly,LOW
+51,"Golla, Patel and Kaul",Groceries,Rewa,MEDIUM
+52,Seth-Dani,Electronics,Mahbubnagar,MEDIUM
+53,Raju-Golla,Pharmacy,Rajahmundry,HIGH
+54,Sunder Ltd,Fuel,Bokaro,MEDIUM
+55,Lal Inc,Fuel,Yamunanagar,MEDIUM
+56,"Gulati, Sundaram and Ratti",Pharmacy,Hubli–Dharwad,MEDIUM
+57,"Bali, Kibe and Devan",Travel,Tenali,LOW
+58,Venkataraman-Khalsa,Travel,Haldia,HIGH
+59,"Baria, Deep and Wable",Entertainment,Agra,LOW
+60,"Khalsa, Hegde and Ganesh",Entertainment,Noida,LOW
+61,"Shankar, Loyal and Bala",Clothing,Bhiwani,LOW
+62,Apte-Bhandari,Travel,Ambarnath,HIGH
+63,Walla-Halder,Clothing,Uluberia,HIGH
+64,"Sant, Sem and Narayan",Fuel,Moradabad,HIGH
+65,"Ghose, Purohit and Andra",Travel,Bhind,LOW
+66,Suresh LLC,Pharmacy,Jorhat,MEDIUM
+67,Sur-Sabharwal,Pharmacy,Bardhaman,MEDIUM
+68,Bera and Sons,Food,Chapra,HIGH
+69,Mohanty-Bandi,Entertainment,Surendranagar Dudhrej,MEDIUM
+70,"Nayak, Mohanty and Raman",Groceries,Gangtok,MEDIUM
+71,Bera Group,Food,Kumbakonam,LOW
+72,Bahl PLC,Travel,Khandwa,LOW
+73,"Arora, Raghavan and Padmanabhan",Electronics,Pune,HIGH
+74,"Bose, Balay and Rau",Entertainment,New Delhi,MEDIUM
+75,"Vohra, Anand and Zacharia",Travel,Srinagar,LOW
+76,Purohit-Chaudhuri,Entertainment,Agartala,MEDIUM
+77,Loke Group,Travel,Kottayam,MEDIUM
+78,Tank Ltd,Groceries,Shivpuri,HIGH
+79,Wali Ltd,Clothing,Gwalior,HIGH
+80,"Sagar, Parmer and Doctor",Travel,Sikar,LOW
+81,Bera Ltd,Entertainment,Alappuzha,MEDIUM
+82,Chaudhari-Lall,Groceries,Bardhaman,MEDIUM
+83,"Chacko, Ganesh and Balakrishnan",Pharmacy,Latur,LOW
+84,"Zacharia, Barad and Prakash",Pharmacy,Howrah,HIGH
+85,Rajagopal-Bajwa,Electronics,Anand,LOW
+86,"Ramachandran, Balan and Ramaswamy",Fuel,Dehri,MEDIUM
+87,Mall and Sons,Pharmacy,Bijapur,MEDIUM
+88,Mander PLC,Fuel,Kolkata,HIGH
+89,"Peri, Choudhry and Barad",Food,Rajahmundry,LOW
+90,Deshpande-Chatterjee,Food,Howrah,LOW
+91,Wali LLC,Fuel,Patna,MEDIUM
+92,Krishnan-Varma,Groceries,Raichur,MEDIUM
+93,Dhar-Amble,Entertainment,Bellary,HIGH
+94,Chadha-Borra,Fuel,Madurai,LOW
+95,Divan-Khosla,Electronics,Pallavaram,LOW
+96,"Gandhi, Om and Sahni",Electronics,Ichalkaranji,LOW
+97,Mannan-Sibal,Groceries,Katihar,MEDIUM
+98,"Sami, Karnik and Toor",Entertainment,Sambhal,MEDIUM
+99,Chada-Bajaj,Entertainment,Kharagpur,LOW
+100,"Shroff, Ravel and Kanda",Electronics,Hajipur,LOW
