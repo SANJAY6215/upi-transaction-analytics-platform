@@ -7,7 +7,7 @@ DB_PORT = "5432"
 DB_NAME = "upi_analytics"
 
 engine = create_engine(
-    "postgresql://upi_user:upi_password@localhost:5432/upi_analytics"
+"postgresql://upi_user:upi_password@host.docker.internal:5432/upi_analytics"
 )
 def load_data(users, merchants, locations, transactions):
 
