@@ -131,7 +131,7 @@ unsafe_allow_html=True
 # ---------------------------------------------------
 
 engine = create_engine(
-"postgresql://upi_user:upi_password@localhost:5432/upi_analytics"
+    "postgresql+psycopg://upi_user:upi_password@localhost:5432/upi_analytics"
 )
 
 # ---------------------------------------------------
@@ -167,12 +167,12 @@ fraud = transactions[
 st.sidebar.markdown('<div class="sidebar-title">Navigation</div>', unsafe_allow_html=True)
 
 menu = {
-"🏠 Overview":"Overview",
-"🚨 Fraud Analytics":"Fraud Analytics",
-"🏬 Merchant Analytics":"Merchant Analytics",
-"👤 User Analytics":"User Analytics",
-"💳 Payment Analytics":"Payment Analytics",
-"📄 Raw Data":"Raw Data"
+" Overview":"Overview",
+" Fraud Analytics":"Fraud Analytics",
+" Merchant Analytics":"Merchant Analytics",
+" User Analytics":"User Analytics",
+" Payment Analytics":"Payment Analytics",
+" Raw Data":"Raw Data"
 }
 
 selection = st.sidebar.radio("", list(menu.keys()))
