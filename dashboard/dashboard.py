@@ -4,6 +4,7 @@ import plotly.express as px
 from sqlalchemy import create_engine
 from streamlit_autorefresh import st_autorefresh
 
+
 # ---------------------------------------------------
 # PAGE CONFIG
 # ---------------------------------------------------
