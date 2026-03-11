@@ -130,9 +130,7 @@ unsafe_allow_html=True
 # DATABASE CONNECTION
 # ---------------------------------------------------
 
-engine = create_engine(
-    "postgresql+psycopg://upi_user:upi_password@localhost:5432/upi_analytics"
-)
+engine = create_engine(st.secrets["DATABASE_URL"])
 
 # ---------------------------------------------------
 # LOAD DATA
