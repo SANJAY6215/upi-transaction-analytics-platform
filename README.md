@@ -3,7 +3,6 @@
 A complete **Data Engineering and Analytics project** that processes UPI transaction data using an ETL pipeline and visualizes insights through an interactive dashboard.
 
 ---
-
 ## 🚀 Project Overview
 
 This project simulates a **UPI transaction analytics system** used by fintech companies to analyze transaction patterns, detect suspicious transactions, and monitor merchant performance.
